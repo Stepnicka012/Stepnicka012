@@ -1,73 +1,121 @@
-# Hola, soy Santiago Stepnicka Nicolás
+<div align="center">
 
-Soy **desarrollador Fullstack** con pasión por crear software **potente, modular y visualmente atractivo** usando tecnologías como **JavaScript, Node.js y Electron**.  
+  # 👨‍💻 Santiago Nicolás Stepnicka
 
-## 🌟 Mis proyectos destacados
+  ### Desarrollador Fullstack | Creador de NovaStepStudios
 
-- 
+  <br>
+
+  <a href="https://github.com/stepnicka012">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Electron+Developer;Minecraft+Launcher+Specialist;Node.js+Backend+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+
+</div>
+
+## ⚡ Sobre Mí
+
+Soy un apasionado por transformar ideas en herramientas **rápidas, modulares y profesionales**. Mi especialidad es el desarrollo de aplicaciones de escritorio y herramientas para gaming, con un fuerte enfoque en la experiencia de usuario y la arquitectura de software.
+
+* 🛠 **Electron Apps:** Potentes y visualmente impecables.
+* 🎮 **Minecraft Tech:** Launchers y gestión de instancias.
+* 📦 **Node.js:** Módulos avanzados y arquitecturas escalables.
+* 🏗 **TypeScript:** Código robusto y tipado.
+
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Lenguajes
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Entornos
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Herramientas & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+  <img src="./images/steplauncher.png" alt="StepLauncher Preview" width="600px"/>
+  <br><br>
+  
+  **Launcher profesional de Minecraft creado en Electron.**
+  <br>
+  *Enfoque en rendimiento, diseño moderno y arquitectura extensible.*
+
+  <br>
+
+  [![Github](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/NovaStepStudio/StepLauncher)
+
+  <img src="https://gitmystat.vercel.app/repo?username=Stepnicka012&repo=StepLauncher" width="400px">
+</div>
+
+<br>
+
+<hr />
+
+<div align="center">
+  <img src="./images/minecraft_tittle.png" alt="Minecraft Core Master" width="600px"/>
+  <br><br>
+
+  **El motor detrás de la magia.**
+  <br>
+  Módulo avanzado para el descubrimiento, descarga y ejecución de Minecraft.
+  
   <p align="center">
-    <img src="./images/steplauncher.png" alt="Error al cargar imagen  -" loading="lazy" width="100px">
-    <h1 align="center">StepLauncher</h1>
-  </p> 
+    <code>Cliente</code> • <code>Assets</code> • <code>Librerías</code> • <code>Nativos</code> • <code>Java Runtimes</code> • <code>Mod Loaders</code>
+  </p>
 
-  Launcher profesional de Minecraft en **Electron**, enfocado en la experiencia de usuario.
-  > [ StepLauncher ](https://github.com/Stepnicka012/StepLauncher)
+  [![Github](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/NovaStepStudio/Minecraft-Core-Master)
+  [![npm version](https://img.shields.io/npm/v/minecraft-core-master.svg?style=for-the-badge&color=red)](https://www.npmjs.com/package/minecraft-core-master)
+  [![npm downloads](https://img.shields.io/npm/dt/minecraft-core-master.svg?style=for-the-badge&color=blue)](https://www.npmjs.com/package/minecraft-core-master)
 
----
+  
+  <img src="https://gitmystat.vercel.app/repo?username=Stepnicka012&repo=Minecraft-Core-Master" width="400px">
+</div>
 
-- 
-  <p align="center">
-    <img src="./images/minecraft_tittle.png" alt="Error al cargar imagen  -" loading="lazy" width="500px">
-    <h1 align="center">Minecraft-Core-Master</h1>
-  </p>  
+<br />
+<h1 align="center">📊 Estadísticas de GitHub<h1>
 
-  Núcleo avanzado para la gestión de versiones y mods de Minecraft.
-  > [ Minecraft-Core-Master ](https://github.com/Stepnicka012/Minecraft-Core-Master)
+<div align="center">
+  <div style="display:flex; width:100%; align-items:center; justify-content:space-between;">
+    <img src="https://gitmystat.vercel.app/user?username=Stepnicka012" align="center" width="200px">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Stepnicka012&theme=dark&locale=es&border_width=3&border_radius=7&hide_stroke=true&hide_border=true" align="center"/>
+    <img src="https://gitmystat.vercel.app/top?username=Stepnicka012&layout=bar" align="center" width="200px">
+  </div>
+</div>
 
-  [![npm version](https://img.shields.io/npm/v/minecraft-core-master.svg)](https://www.npmjs.com/package/minecraft-core-master)
-  [![npm downloads](https://img.shields.io/npm/dt/minecraft-core-master.svg)](https://www.npmjs.com/package/minecraft-core-master)
+<h1 align="center">🌐 Conectemos</h1>
 
-## 🛠️ Tecnologías que uso
+<div align="center">
+  <a href="https://instagram.com/stepnickast"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@steplauncher-mc"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://discord.gg/YAqpTWQByM"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:stepnicka012@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~NovaStepStudio"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" /></a>
+</div>
+<hr />
+<div align="center" style="font-size: 5px;">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+  <h5>❤️ Apoya el desarrollo</h5>
+  <p>Si mis herramientas te han sido útiles, considera invitarme un café para seguir creando.</p>
 
----
-
-## 📊 Estadísticas de Github
-
-| <a href="https://github.com/Stepnicka012"><img src="https://github-readme-stats.vercel.app/api?username=Stepnicka012&show_icons=true&hide_border=true&theme=radical" alt="Santiago's GitHub stats" /></a> | <a href="https://github.com/Stepnicka012"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stepnicka012&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
----
-
-## 📬 Cómo conectar conmigo
-
-<p>
-<a href="https://instagram.com/stepnickast"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@steplauncher-mc"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-<a href="https://www.npmjs.com/~NovaStepStudio"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-<a href="https://discord.gg/37dYy9apwE"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-<a href="mailto:stepnicka012@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-## ❤️ Apoyo & Colaboraciones
-
-- ✨ **Colaboraciones**: Si tienes un proyecto interesante, hablemos por email o Discord.  
-- ☕ **Apóyame** para seguir creando mejoras y nuevas herramientas:
-
-**Mercado Pago**  
-- CVU: `0000003100051190149138`  
-- Alias: `stepnickasantiago`
-
+  <p>Mercado Pago (Argentina)</p>
+  <p>CVU: 0000003100051190149138 | Alias: stepnickasantiago</p>
+  <br>
+  <a href='https://ko-fi.com/X8X31BPOT7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
